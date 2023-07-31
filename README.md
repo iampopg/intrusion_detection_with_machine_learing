@@ -56,7 +56,7 @@ www.researchreader.com
 
 Gbadamosi Sodiq,
 Matric Number: *******
-Email: iiampopg@proton.me
+Email: iampopg@proton.me
 
 Neetesh Bhati,
 Email: ********
