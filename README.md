@@ -1,6 +1,6 @@
 # Intrusion-Detection-System-using-Machine-Learning-Methods
 Intrusion-Detection-System-using-Machine-Learning-Methods
-## Carried out this project along with talented students Neetesh Bhati and Puneet Agarwal
+## Carried out this project by Gbadamosi Sodiq (Matric Number: ********),Neetesh Bhati, Puneet Agarwal.
 
 The intrusion detection systems are an integral part of modern communication networks. The business environments require a high level of security to safeguard their private data from any unauthorized personnel. The current intrusion detection systems are a step upgrade from the conventional anti-virus software.
 Two main categories based on their working. These are:
@@ -40,7 +40,7 @@ Here we look at the correlation between the selected features.
 
 ![alt text](https://github.com/siddhaling/Intrusion-Detection-System-using-Machine-Learning-Methods/blob/main/images/7.jpg)
 
-We created two different models – Naïve Bayes and K Nearest Neighbor to compare and evaluate the performance. We did the train test split to see the results of the model. 
+We created two different models – c2.4 and random forest to compare and evaluate the performance. We did the train test split to see the results of the model. 
 
 ![alt text](https://github.com/siddhaling/Intrusion-Detection-System-using-Machine-Learning-Methods/blob/main/images/8.jpg)
 
@@ -54,9 +54,11 @@ We compared the two models to choose the better option for final prediction of t
 # Further Projects and Contact
 www.researchreader.com
 
-https://medium.com/@dr.siddhaling
+Gbadamosi Sodiq,
+Matric Number: *******
+Email: iiampopg@proton.me
 
-Dr. Siddhaling Urolagin,\
-PhD, Post-Doc, Machine Learning and Data Science Expert,\
-Passionate Researcher, Deep Learning, Machine Learning and applications,\
-dr.siddhaling@gmail.com
+Neetesh Bhati,
+Email: ********
+
+Puneet Agarwal
