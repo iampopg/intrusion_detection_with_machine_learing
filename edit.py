@@ -12,7 +12,7 @@ class OpenVPNClient():
         # if not pyuac.isUserAdmin():
         #     pyuac.runAsAdmin()
         self.vpn_gui = Tk()
-        self.vpn_gui.title('20D/47cs/01255')
+        self.vpn_gui.title('iampogg')
         # self.vpn_gui.iconbitmap(self.resource_path('favicon.ico'))
         self.vpn_gui.resizable(False,False)
         self.vpn_gui.geometry('375x450')
