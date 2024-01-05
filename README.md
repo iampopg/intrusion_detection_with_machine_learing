@@ -1,6 +1,6 @@
 # Intrusion-Detection-System-using-Machine-Learning-Methods
 Intrusion-Detection-System-using-Machine-Learning-Methods
-## Carried out this project by Gbadamosi Sodiq (Matric Number: ********),Neetesh Bhati, Puneet Agarwal.
+## Carried out this project by iampopg (Matric Number: ********),Neetesh Bhati, Puneet Agarwal.
 
 The intrusion detection systems are an integral part of modern communication networks. The business environments require a high level of security to safeguard their private data from any unauthorized personnel. The current intrusion detection systems are a step upgrade from the conventional anti-virus software.
 Two main categories based on their working. These are:
@@ -54,7 +54,7 @@ We compared the two models to choose the better option for final prediction of t
 # Further Projects and Contact
 www.researchreader.com
 
-Gbadamosi Sodiq,
+iampopg
 Matric Number: *******
 Email: iampopg@proton.me
 
