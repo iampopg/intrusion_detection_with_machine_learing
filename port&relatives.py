@@ -10,7 +10,7 @@ import time
 class PortScannerApp(tk.Tk):
     def __init__(self):
         super().__init__()
-        self.title('20d/47cs/01255')
+        self.title('iampopg')
         self.geometry("450x600")
         self.configure(bg='black')
         # self.toplink = Canvas(self.vpn_gui, width=375, height=450)
